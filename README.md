@@ -15,9 +15,9 @@ If the user clicks "Sim" ("Yes"), they are taken to a confirmation page with a h
 
 ## Technologies Used
 ```markdown
-- **HTML**: Structure of the pages.
-- **CSS**: Styling and animations.
-- **JavaScript**: Button interactions and logic.
+- HTML: Structure of the pages.
+- CSS: Styling and animations.
+- JavaScript: Button interactions and logic.
 ```
 
 ## How to Run the Project
@@ -39,13 +39,6 @@ If the user clicks "Sim" ("Yes"), they are taken to a confirmation page with a h
 │   │-- script.js  (Main JavaScript logic)
 │-- /img
 │   │-- favicon.ico (Favicon)
-```
-
-## Future Improvements
-```markdown
-- Add more animations and effects for a better user experience.
-- Include sound effects when clicking buttons.
-- Create a mobile-friendly version with better button positioning.
 ```
 
 ## Inspiration
